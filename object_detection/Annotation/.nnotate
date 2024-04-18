@@ -1,0 +1,8 @@
+[UI]
+Font_Size = "5,0000"
+Overlay_Thickness = "1"
+ROI_Color = "0"
+
+[Label Properties]
+ASLI = "12FF41, TRUE, TRUE"
+PALSU = "FF2A37, TRUE, TRUE"
